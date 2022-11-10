@@ -1,0 +1,376 @@
+
+html {
+    background-color: black;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 39.0625vw;
+}
+
+html[Attributes Style] {
+    -webkit-locale: "en";
+}
+
+html {
+    display: block;
+}
+
+body {
+    display: grid;
+    place-items: center;
+    text-align: center;
+    background-size: cover;
+}
+.content .text {
+    
+   /* width: 183px;
+    height: 27px;
+    left: 567px;
+    top: 134px;*/
+    font-family: 'Spartan';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 4.166666666666667vw;
+    line-height: 153%;
+    display: flex;
+    align-items: center;
+    margin:  0.6510416666666666vw;
+    margin-left: 4.557291666666667vw;
+    text-align: center;
+    letter-spacing: 0.34vw;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.heading {
+	display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0.9765625vw
+  9.114583333333334vw  0.6510416666666666vw 2.9296875vw;
+gap: 0.9765625vw
+;
+
+position: absolute;
+width: 6.510416666666667vw;
+height: 1.6276041666666667vw;
+left: 4.557291666666667vw;
+top: 10.091145833333334vw;
+
+background: rgba(104, 204, 88, 0.16);
+border-radius: 0vw;
+
+font-family: 'Spartan';
+font-size: 2.2135416666666665vw;
+font-style: normal;
+color: #FFFFFF;
+letter-spacing: 0.24vw;
+margin-left:  1.3020833333333333vw;
+}
+
+
+div {
+    display: block;
+}
+
+.background{
+	background: 
+}
+.figure{
+	position: absolute;
+width: 30.143229166666668vw;
+height:  12.434895833333334vw;
+left:  3.2552083333333335vw;
+top: 14.973958333333334vw;
+border-radius:  0.6510416666666666vw 0.6510416666666666vw 0vw 0vw;
+
+}
+.figure_1{
+	position: absolute;
+width: 30.143229166666668vw;
+height:  12.434895833333334vw;
+left:  29.296875vw;
+top: 14.973958333333334vw;
+border-radius:  0.6510416666666666vw 0.6510416666666666vw 0px 0px;
+
+}
+.figure_2{
+	position:absolute;
+	width: 30.143229166666668vw;
+height:  12.434895833333334vw;
+left: 55.338541666666664vw;
+top: 14.973958333333334vw;
+border-radius:  0.6510416666666666vw 0.6510416666666666vw 0vw 0vw;
+}
+.new{
+	display: flex;
+flex-direction: row;
+align-items: center;
+padding:  0.6510416666666666vw 9.114583333333334vw  0.6510416666666666vw 2.9296875vw;
+gap: 0.9765625vw;
+
+position: absolute;
+width: 6.510416666666667vw;
+height: 1.6276041666666667vw;
+left: 4.557291666666667vw;
+top: 29.622395833333332vw;
+
+background: rgba(104, 204, 88, 0.16);
+border-radius: 0px;
+
+font-family: 'Spartan';
+font-size: 2.2135416666666665vw;
+font-style: normal;
+color: #FFFFFF;
+letter-spacing: 0.24vw;
+margin-left:  1.3020833333333333vw;
+}
+
+
+.container {
+	position: absolute;
+width: 90.49479166666667vw;
+height: 27.213541666666668vw;
+left: 5.729166666666667vw;
+top:  35.807291666666664vw;
+border-style: none;
+background: rgba(104, 204, 88, 0.14);
+border-radius: 0vw;
+
+
+
+}
+button{
+	float:right;
+	width: 11.71875vw;
+height: 2.5390625vw;
+align-items: right;
+background: #FFFFFF;
+border-radius: 0.9114583333333334vw;
+border-color: #FFFFFF;
+transition-duration: 0.4s;
+display:inline-block;
+cursor: pointer;
+
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size:  1.171875vw;
+line-height: 1.7578125vw;
+/* identical to box height */
+
+
+color: #000000;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+
+
+
+
+
+.date{
+	display: block;
+flex-direction: row;
+
+align-items: center;
+padding:  0.6510416666666666vw 0.6510416666666666vw;
+gap:  0.6510416666666666vw;
+
+position: absolute;
+
+width: 3.90625vw;
+height: 3.90625vw;
+top:5.208333333333333vw;
+left:1.3020833333333333vw;
+
+background:  #68CC58;
+border-radius:  0.3255208333333333vw;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size:  1.171875vw;
+line-height: 1.7578125vw;
+color: #FFFFFF;
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+p{
+	position:absolute;
+	width: 14.127604166666666vw;
+height: 1.7578125vw;
+top:5.208333333333333vw;
+left: 2.6041666666666665vw;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size:  1.171875vw;
+line-height: 1.7578125vw;
+padding: 0vw 5.859375vw 5.208333333333333vw 6.184895833333333vw;
+/* identical to box height */
+
+
+
+
+color: #C4C4C4;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.Hackerrank{
+	position:absolute;
+	width: 14.127604166666666vw;
+height: 1.7578125vw;
+top:6.380208333333333vw;
+left: 16.276041666666668vw;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size:  1.171875vw;
+line-height: 1.7578125vw;
+padding: 0vw 5.859375vw  5.208333333333333vw 6.184895833333333vw;
+/* identical to box height */
+
+
+
+
+color: #C4C4C4;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.topic{position:absolute;
+	width:  14.127604166666666vw;
+height:  1.7578125vw;
+top:6.380208333333333vw;
+left:  29.296875vw;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size:  1.171875vw;
+line-height: 1.7578125vw;
+padding: 0vw 5.859375vw 5.208333333333333vw 6.184895833333333vw;
+/* identical to box height */
+
+
+
+
+color: #C4C4C4;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+
+}
+.time{
+position:absolute;
+	width: 14.127604166666666vw;
+height: 1.7578125vw;
+top:6.380208333333333vw;
+left: 42.317708333333336vw;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size:  1.171875vw;
+line-height:  1.7578125vw;;
+padding: 0vw 5.859375vw 5.208333333333333vw 6.184895833333333vw;
+/* identical to box height */
+
+
+
+
+color: #C4C4C4;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.duration{
+position:absolute;
+	width: 14.127604166666666vw;
+height: 1.7578125vw;
+top:6.380208333333333vw;
+left: 54.036458333333336vw;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size:  1.171875vw;
+line-height: 1.7578125vw;
+padding: 0vw 5.859375vw 5.208333333333333vw 6.184895833333333vw;
+/* identical to box height */
+
+
+
+
+color: #C4C4C4;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.check{
+	position: absolute;
+left: 85.21%;
+right: 30.5%;
+top: 0.9765625vw;
+bottom: 20.83%;
+
+/* Success or Positive */
+
+background: #50C878;
+}
+
+.cross{
+	position: absolute;
+left: 95.21%;
+right: 30.5%;
+top: 0.9765625vw;
+bottom: 20.83%;
+
+/* Success or Positive */
+
+background: #50C878;
+}
+
+
+svg{
+	position: absolute;
+left: 4.00%;
+right: 6.33%;
+top: 28.83%;
+bottom: 30.39%;
+
+background: rgba(104, 204, 88, 0) ;
+}
